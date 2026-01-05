@@ -12,3 +12,15 @@ Git与Github知识点
 - videomind
 ### AI agent
 - 等待更新
+
+### Markdown练习代码
+
+-   方便查看markdown生疏语法
+
+### Python_NLP
+
+-   包括 python, 数据分析, 机器学习等
+
+### Pythonpac
+
+-   爬虫基础代码
