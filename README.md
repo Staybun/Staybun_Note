@@ -21,6 +21,6 @@ Git与Github知识点
 
 -   包括 python, 数据分析, 机器学习等
 
-### Pythonpac
+### Python
 
 -   爬虫基础代码
